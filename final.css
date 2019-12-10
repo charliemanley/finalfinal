@@ -1,0 +1,58 @@
+ ul {
+
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  color: dimgray;
+
+
+}
+li { display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    color: dimgray;
+
+}
+
+div {
+  font-family: 'Montserrat', sans-serif;
+  color: dimgray;
+  background-color: white;
+}
+
+a {
+  color: dimgray;
+  font-family: 'Montserrat', sans-serif;
+  background-color: white;
+}
+
+
+
+
+
+
+nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    height: 64px;
+    line-height: 63px;
+
+}
+
+.cols12 {
+  padding-top: 10px;
+}
+
+.responsive-img {
+
+
+}
+
+.container{
+font-family: 'Baskervville', serif;
+}
+
+section{
+  margin-left: 160px;
+}
